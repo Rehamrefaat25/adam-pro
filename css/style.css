@@ -1,0 +1,29 @@
+body{
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    background: linear-gradient(180deg, rgba(240, 240, 241, 0.166) -8.54%, rgba(229, 170, 208, 0.2) 100%,white);
+
+
+  }
+  .circle button{
+    border-radius: 50% !important;
+  }
+.button{
+    width:150px;
+    height: 50px;
+    border-radius: 100px;
+ background-color: #8643DC;
+ font-size: 20px
+    ;
+}
+form input{
+    border: none;
+    width: 100%;
+    background:transparent}
+.menu-body a{
+    text-decoration: none;
+     color: black;
+     display: block;
+     margin: 30px;
+     font-size: 20px;
+}
